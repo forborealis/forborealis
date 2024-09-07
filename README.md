@@ -2,7 +2,7 @@
 
 Currently a third-year IT student who typically handles front-end.
 
-<img src="https://i.pinimg.com/originals/88/2c/c8/882cc8417b025d735a72d4f273bba103.gif" alt="Tech GIF" width="300"/>
+[<img src="https://i.pinimg.com/originals/88/2c/c8/882cc8417b025d735a72d4f273bba103.gif" alt="Tech GIF" width="300"/>](https://i.pinimg.com/originals/88/2c/c8/882cc8417b025d735a72d4f273bba103.gif)
 
 
 ## 👾 Tech Stack
