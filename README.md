@@ -2,7 +2,7 @@
 
 Currently a third-year IT student who typically handles front-end.
 
-![Raiden Shogun](https://media1.tenor.com/m/0R9r41V3VcwAAAAd/raiden-shogun.gif)
+![Raiden Shogun](https://media1.tenor.com/m/T--npVEsOLYAAAAd/raiden-shogun-genshin.gif)
 
 ## 👾 Tech Stack
 
