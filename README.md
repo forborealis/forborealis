@@ -2,7 +2,7 @@
 
 Currently a third-year IT student who typically handles front-end.
 
-![Tech GIF](https://i.pinimg.com/originals/47/fb/30/47fb305919c1a50a4af495f9d0d646e8.gif)
+<div class="tenor-gif-embed" data-postid="5760006776903448758" data-share-method="host" data-aspect-ratio="2.96429" data-width="100%"><a href="https://tenor.com/view/raiden-shogun-genshin-gif-5760006776903448758">Raiden Shogun Genshin GIF</a>from <a href="https://tenor.com/search/raiden+shogun-gifs">Raiden Shogun GIFs</a></div> <script type="text/javascript" async src="https://tenor.com/embed.js"></script>
 
 
 ## 👾 Tech Stack
