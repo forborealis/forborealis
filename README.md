@@ -2,8 +2,7 @@
 
 Currently a third-year IT student who typically handles front-end.
 
-<div class="tenor-gif-embed" data-postid="5760006776903448758" data-share-method="host" data-aspect-ratio="2.96429" data-width="100%"><a href="https://tenor.com/view/raiden-shogun-genshin-gif-5760006776903448758">Raiden Shogun Genshin GIF</a>from <a href="https://tenor.com/search/raiden+shogun-gifs">Raiden Shogun GIFs</a></div> <script type="text/javascript" async src="https://tenor.com/embed.js"></script>
-
+![Raiden Shogun Genshin](https://tenor.com/view/raiden-shogun-genshin-gif-5760006776903448758)
 
 ## 👾 Tech Stack
 
