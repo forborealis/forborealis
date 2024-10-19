@@ -2,7 +2,7 @@
 
 Currently a third-year IT student who typically handles front-end.
 
-![Hu Tao](https://media1.tenor.com/m/sVd55_OyGooAAAAC/hu-tao.gif)
+![Kiki](https://media1.tenor.com/m/lBHXGK2hr3YAAAAC/kikis-delivery-service-ghibli.gif)
 
 ## 👾 Tech Stack
 
