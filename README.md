@@ -1,8 +1,12 @@
 
-
-Third-year IT student 
-
-![Reyna](https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExcWwyNmRxaWI4d3l1ZDllbWEwdjF1bjRnN2Vud3U4MGlzdDE1dG9zdyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/hVVLTGktFcUiQEUfFf/giphy.gif)
+<div align="center">
+  <h2 style="color: #F2789F;">Hello! I'm currently a third-year IT student.</h2>
+  <div style="width: 150px; height: 150px; border-radius: 50%; overflow: hidden; display: inline-block;">
+    <img src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExcWwyNmRxaWI4d3l1ZDllbWEwdjF1bjRnN2Vud3U4MGlzdDE1dG9zdyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/hVVLTGktFcUiQEUfFf/giphy.gif" 
+         alt="Reyna GIF" 
+         style="width: 100%; height: 100%; object-fit: cover;">
+  </div>
+</div>
 
 ## 👾 Tech Stack
 
