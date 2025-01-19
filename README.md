@@ -2,7 +2,7 @@
 
 Third-year IT student 
 
-![Kiki](https://media1.tenor.com/m/lBHXGK2hr3YAAAAC/kikis-delivery-service-ghibli.gif)
+![Reyna](https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExcWwyNmRxaWI4d3l1ZDllbWEwdjF1bjRnN2Vud3U4MGlzdDE1dG9zdyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/hVVLTGktFcUiQEUfFf/giphy.gif)
 
 ## 👾 Tech Stack
 
