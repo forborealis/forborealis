@@ -2,8 +2,8 @@
 <div align="center">
   <h2 style="color: #F2789F;">Hello! I'm currently a third-year IT student.</h2>
   <div style="width: 150px; height: 150px; border-radius: 50%; overflow: hidden; display: inline-block;">
-    <img src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExcWwyNmRxaWI4d3l1ZDllbWEwdjF1bjRnN2Vud3U4MGlzdDE1dG9zdyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/hVVLTGktFcUiQEUfFf/giphy.gif" 
-         alt="Reyna GIF" 
+    <img src="https://i.pinimg.com/originals/c5/80/93/c58093af023a9341f9d4b470a4e9d6dd.gif" 
+         alt="Jellyfish GIF" 
          style="width: 100%; height: 100%; object-fit: cover;">
   </div>
 </div>
