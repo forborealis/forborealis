@@ -8,17 +8,7 @@
 
 </div>
 
----
-
-### 🧁 About Me
-
-🎀 I love designing pretty, functional UIs  
-💻 I often utilize React and Tailwind CSS  
-💡 I try to be flexible in both frontend and backend
-
----
-
-### 💖 Tech Stack
+### Tech Stack
 
 <div align="center">
 
