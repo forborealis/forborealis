@@ -1,9 +1,10 @@
 <div align="center">
 
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=8B5CF6&center=true&vCenter=true&width=600&lines=Hi!+I'm+Aurora%2C+a+fourth-year+IT+student.;I+enjoy+UI+design+%26+frontend+development!" alt="Typing SVG" />
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=842A3B&center=true&vCenter=true&width=600&lines=Hi!+I'm+Aurora%2C+a+fourth-year+IT+student.;I+enjoy+UI+design+%26+frontend+development!" alt="Typing SVG" />
+<br/>
 
-<img src="https://i.pinimg.com/originals/39/0f/40/390f400aea213cea87b2d9cdf19d780a.gif" width="600" height="400" />
+<img src="https://media1.tenor.com/m/Q3TGl4CBEpMAAAAd/valorant-reyna.gif" width="600" height="400" />
 
 </div>
 
@@ -24,4 +25,3 @@
 ![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)
 
 </div>
-
