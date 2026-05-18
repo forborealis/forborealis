@@ -4,7 +4,7 @@
 
 <br/><br/>
 
-<img src="https://media.tenor.com/8ZF6JwKj8S0AAAAC/baal-raiden-shogun.gif" width="800" />
+<img src="https://media1.tenor.com/m/Q3TGl4CBEpMAAAAd/valorant-reyna.gif" width="800" />
 
 </div>
 
