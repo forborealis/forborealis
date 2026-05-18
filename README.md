@@ -4,11 +4,10 @@
 
 <br/>
 
-<img src="https://media1.tenor.com/m/Q3TGl4CBEpMAAAAd/valorant-reyna.gif" width="600" height="400" />
+<img src="https://tenor.com/view/baal-raiden-shogun-genshin-impact-genshin-impact-raiden-shogun-genshin-impact-baal-gif-22841370" width="800" height="500" />
 
 </div>
 
-## Tech Stack
 
 <div align="center">
 
