@@ -6,9 +6,9 @@
 
 <br/>
 
-<h2 align="center">Tech Stack</h2>
+<h2 align="left">Tech Stack</h2>
 
-<h4 align="left">Frontend</h4>
+<h3 align="left">Frontend</h3>
 <div align="left">
 
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
@@ -19,7 +19,7 @@
 
 </div>
 
-<h4 align="left">Backend</h4>
+<h3 align="left">Backend</h3>
 <div align="left">
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=FFD43B)
@@ -30,7 +30,7 @@
 
 </div>
 
-<h4 align="left">Database</h4>
+<h3 align="left">Database</h3>
 <div align="left">
 
 ![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
@@ -41,7 +41,7 @@
 
 </div>
 
-<h4 align="left">Tools</h4>
+<h3 align="left">Tools</h3>
 <div align="left">
 
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
