@@ -4,7 +4,7 @@
 
 <br/><br/>
 
-<img src="https://media.gifdb.com/yae-miko-player-genshin-impact-qmf9e02qcx4x3nix.gif" width="800" />
+<img src="https://tenor.com/bHRvN.gif" width="800" />
 
 </div>
 
