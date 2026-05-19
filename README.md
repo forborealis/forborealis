@@ -1,7 +1,7 @@
 <div align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=640D5F&center=true&vCenter=true&width=600&lines=Hi!+I'm+Aurora%2C+a+fourth-year+IT+student.;I+enjoy+working+with+web+development!" alt="Typing SVG" />
   <br/><br/>
-  <img src="https://media1.tenor.com/m/T--npVEsOLYAAAAC/raiden-shogun-genshin.gif" width="800" />
+  <img src="raiden-shogun-genshin.gif" width="800" />
 </div>
 
 <br/>
